@@ -1,0 +1,45 @@
+/*#box {
+    height:100px;
+    width:100px;
+    border:1px solid black;
+    margin:5px;
+    text-align:center;
+    background-color: aquamarine;
+}
+
+.myclass{
+    color : "blue";
+    background-color: yellowgreen;
+    text-decoration: wavy;
+}
+
+body{
+    background-color: plum;
+}
+
+#box1 {
+    height:25px;
+    width:100px;
+    border:1px solid black;
+    margin:5px;
+    text-align:center;
+    background-color: peru;
+}
+
+.para{
+    color: red;
+}
+
+.newpara{
+    background-color: aqua;
+}*/
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
